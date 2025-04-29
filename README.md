@@ -20,26 +20,23 @@ I'm an Electrical and computer engeneering Student, passionate to learn and expl
 
 In addition, I have a strong foundation in mathematics and the theory of Computer Science. 
 
-### Technologies  
-#### Programming Languages  
-
 | Python | C++ | C# | Assembly | MATLAB |
 |---|---|---|---|---|
-| [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | 
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | 
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) 
-| ![Assembly Icon](https://upload.wikimedia.org/wikipedia/commons/2/23/Assembly_language_icon.png) | ![MATLAB Icon](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png) |
+| [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) |  |  |
+
 
 
 #### Frameworks for Python I use daily
 | NumPY | Pandas | 
-|---|---|---|---|
+|---|---|
 | <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width=80> | <img src="https://pandas.pydata.org/static/img/pandas_white.svg" with=80> | 
 
-
+<!-- 
 ### Links
 [![Leetcode Stats](https://leetcard.jacoblin.cool/eden_leyba)](https://leetcode.com/eden_leyba)
+[![Leetcode Stats](https://leetcode.com/u/omergrau)]
+-->
 
 
 ### Contact Me 📫
-📫omergrau@gmail.com](mailto:omergrau@gmail.com)
+omergrau@gmail.com
