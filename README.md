@@ -27,9 +27,10 @@ In addition, I have a strong foundation in mathematics and the theory of Compute
 
 
 
-| NumPy | Pandas | Pygame |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="80"> | <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80"> | <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" width="80"> |
+| NumPy | Pandas | Pygame | Matplotlib | Pygbag |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="80"> | <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80"> | <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" width="80"> | <img src="https://matplotlib.org/_static/images/logo2.svg" width="80"> | <img src="https://pygbag.dev/logo.svg" width="80"> |
+
 
 
 <!-- 
