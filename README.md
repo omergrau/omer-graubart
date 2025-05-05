@@ -20,9 +20,9 @@ I'm an Electrical and computer engeneering Student, passionate to learn and expl
 
 In addition, I have a strong foundation in mathematics and the theory of Computer Science. 
 
-| Python | C++ | C# | Assembly | MATLAB |
-|---|---|---|---|---|
-| [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) |  | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"> |
+| Python                                           | C++                                        | C#                                       | MATLAB                                                                                                       | Assembly                                                                                                                  |
+| ------------------------------------------------ | ------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| ![Python](https://skillicons.dev/icons?i=python) | ![C++](https://skillicons.dev/icons?i=cpp) | ![C#](https://skillicons.dev/icons?i=cs) | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" alt="MATLAB Logo"> |  |
 
 
 
