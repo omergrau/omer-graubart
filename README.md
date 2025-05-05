@@ -24,7 +24,9 @@ In addition, I have a strong foundation in mathematics and the theory of Compute
 |---|---|---|---|---|
 | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) |  | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"> |
 
+## 📈 GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omergrau&show_icons=true&theme=default)
 
 
 | NumPy | Pandas | Pygame | Matplotlib | Pygbag |
