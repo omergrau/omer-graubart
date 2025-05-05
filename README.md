@@ -24,14 +24,18 @@ In addition, I have a strong foundation in mathematics and the theory of Compute
 |---|---|---|---|---|
 | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) |  | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"> |
 
-## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omergrau&show_icons=true&theme=default)
 
 
 | NumPy | Pandas | Pygame | Matplotlib | Pygbag |
 |---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="80"> | <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80"> | <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" width="80"> | <img src="https://matplotlib.org/_static/images/logo2.svg" width="80"> | <img src="https://pygbag.dev/logo.svg" width="80"> |
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omergrau&show_icons=true&theme=default)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/omergrau)](https://leetcode.com/omergrau)
 
 
 
