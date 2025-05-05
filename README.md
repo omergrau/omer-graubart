@@ -35,15 +35,11 @@ In addition, I have a strong foundation in mathematics and the theory of Compute
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omergrau&show_icons=true&theme=default)
 
+### Links
 [![Leetcode Stats](https://leetcard.jacoblin.cool/omergrau)](https://leetcode.com/omergrau)
 
 
 
-<!-- 
-### Links
-[![Leetcode Stats](https://leetcard.jacoblin.cool/eden_leyba)](https://leetcode.com/eden_leyba)
-[![Leetcode Stats](https://leetcode.com/u/omergrau)]
--->
 
 
 ### Contact Me 📫
